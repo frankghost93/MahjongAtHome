@@ -1,0 +1,10 @@
+{
+    "format":  "dex",
+    "version":  8,
+    "apiVersion":  1,
+    "minHostVersion":  1,
+    "maxHostVersion":  1,
+    "url":  "https://raw.githubusercontent.com/frankghost93/MahjongAtHome/main/dex/v8/patch.dex",
+    "sha256":  "87cae6ef129efcab3842c2e26b34005260d35475ba7436929410ec4e489a03fb",
+    "sig":  "GhGM+mNgrRv+UsbAKB6YGOeA0GH6SqB0NW6L6dffqWUruiE7nSPyOAxvVIw+ziEuQmWxn3XTX5aX/wbAOpC1twdUw5WeSc77vyxyZtvTaQd0Y6CTKFKMqdu49WnWbuAMheRtA9JQDrsSEdouymjNYKMreUb96dCKCr3n7ow84/DJ2NN7yOCvyjS9XgrUAwCNb1G6jUc9ES4ygoQaA65WpooFE7FcVHgju8gNb0eGRzvQi4bs+VpbTHfRs7BxP8GCR8yMEmybxVXxf6Kx3kRWh2mrwLK61kHsTVK6gqbEQ/NvNd6VCRMkQmcsYvNoSnW7S5i0mXFvJakqPAHWyD4Dw0MHj7zuTttmGhdnou1p1K033pgy8oqAYhnL3trmeExvrEaMkd72hxRSL5NELCiMDZv2DIlTihUgsV2RmkTJCL6fNz5EN3luBw8dSF2+VknOXjNsMtOBrz8LUrMEp0R6/fO20QwSNyXC6ptCzEz6qWTzQsCLXWYRvLpvUhZbp0s/"
+}
